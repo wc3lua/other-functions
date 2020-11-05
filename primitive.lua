@@ -1,7 +1,3 @@
-local export = {}
-
-function export.defaultValue(val, default)
+function defaultValue(val, default)
     return val and val or default
 end
-
-return export

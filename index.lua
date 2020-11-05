@@ -1,2 +1,1 @@
-local import = require 'OtherFunctions.primitive'
-defaultValue = import.defaultValue
+require 'OtherFunctions.primitive'
