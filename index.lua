@@ -1,5 +1,2 @@
-OtherFunctions = require 'OtherFunctions.primitive'
-
-local import = OtherFunctions
-
+local import = require 'OtherFunctions.primitive'
 defaultValue = import.defaultValue
