@@ -1,5 +1,7 @@
-local function defaultValue(val, default)
+local export = {}
+
+function export.defaultValue(val, default)
     return val and val or default
 end
 
-return defaultValue
+return export
