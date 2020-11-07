@@ -1,1 +1,1 @@
-require 'OtherFunctions.primitive'
+require 'modules.other-functions.primitive'
