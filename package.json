@@ -1,0 +1,25 @@
+{
+  "name": "other-functions",
+  "version": "1.0.0",
+  "description": "Другие функции для lua",
+  "main": "index.lua",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wc3lua/other-functions.git"
+  },
+  "keywords": [
+    "wc3lua",
+    "warcraft",
+    "ceres",
+    "lua"
+  ],
+  "author": "WriteCoin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wc3lua/other-functions/issues"
+  },
+  "homepage": "https://github.com/wc3lua/other-functions#readme"
+}
